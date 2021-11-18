@@ -1,0 +1,33 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+
+
+/* Contenu */
+
+#contenu                        {text-align:center; border:solid 1px #D3D3D3; margin-left:1px; margin-right:1px; background-color:#D3D3D3}
+#contenu h1                     {font-size:50px; text-align:center; font-family:"Bahnschrift Condensed"}
+#contenu p                      {font-size:27px; font-family:"arial"; border-bottom:solid 2px #000; padding-bottom:50px; margin-left:40px; margin-right:40px; text-align:left}
+.gras                           {font-weight:700}
+#contenu #synopsis p            {font-size:20px; text-align:center; border:none; font-style:italic; padding-top:20px;}
+#contenu #article2 h1          {font-family:"Bahnschrift Condensed"; font-size:40px; color:#8B0000; margin-top: -20px}
+#contenu #article2 p          {border:none}
+
+/* Contenu 2 */
+
+#contenu2                        {text-align:center; margin-top:50px}
+#contenu2 h1                     {font-size:50px; text-align:center; font-family:"Bahnschrift Condensed"}
+#contenu2 ul                       {margin:0; padding:0}
+#contenu2 li                    {list-style-type:none; padding-top:5px; padding-bottom:5px; font-family:"Arial Nova Light"; border:solid 1px #D3D3D3; margin-left:310px; margin-right:310px; margin-top:10px; margin-bottom:10px; border-radius:20px; background-color:#D3D3D3}
+#contenu2 li a                  {text-decoration:none; color:#8B0000}
+
+.img01                          {margin-top:40px;text-align:center; border:solid 1px #D3D3D3; padding:40px; padding-bottom:20px; margin-left:600px; margin-right:600px}
+.img01 h1                       {color:#8B0000; font-family:"Bahnschrift Condensed"; font-size:40px;}
+.img01 p                        {font-size:27px; font-family:"arial"}
+
+/* Footer */
+
+#pdp                            {text-align:center; border:solid 1px #DDDDDD; margin-top:20px; background-color:#DDDDDD; margin-left:40px; margin-right:40px}
+#pdp p 
+
+
+}
